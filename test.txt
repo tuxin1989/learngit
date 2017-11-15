@@ -1,1 +1,2 @@
 hello git
+add line2 in the end
